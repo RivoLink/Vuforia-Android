@@ -1,4 +1,4 @@
-package mg.rivolink.app.vuforia;
+package mg.rivolink.app.ar;
 
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.0"
 
     defaultConfig {
-        applicationId "mg.rivolink.app.vuforia"
+        applicationId "mg.rivolink.app.ar"
         minSdkVersion 13
         targetSdkVersion 21
         versionCode 1
